@@ -1,0 +1,440 @@
+Public resources found in...
+Translatable source found in...
+Found 2717 cached/archived units.  Used 2717 / 2720 units from cache.
+Compiling...
+   Compilation completed in 0.18 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369412787491.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369412787491.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369412787491_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369412789440.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369412789440.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369412789440_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369412814179.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369412814179.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369412814179_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2717 cached/archived units.  Used 2717 / 2720 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413012743.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413012743.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413012743_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413014111.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413014111.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413014111_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2720 cached/archived units.  Used 2720 / 2720 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413022006.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413022006.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413022006_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413022373.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413022373.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413022373_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2717 cached/archived units.  Used 2717 / 2720 units from cache.
+Compiling...
+   Compilation completed in 0.04 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413084667.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413084667.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413084667_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413086241.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413086241.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413086241_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413098143.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413098143.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413098143_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413109883.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413109883.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413109883_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413120537.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413120537.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413120537_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413124298.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413124298.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples_ElementPrinterExamplesUiBinderImpl_designTime1369413124298_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2717 cached/archived units.  Used 2717 / 2720 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Unexpected text in element: "Hello,": <g:StackPanel> (:9)
+[ERROR] Deferred binding failed for 'com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2720 cached/archived units.  Used 2720 / 2720 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Unexpected text in element: "Hello,": <g:StackPanel> (:9)
+[ERROR] Deferred binding failed for 'com.hawkinscomputerservices.gwt.elementprinterexamples.client.ElementPrinterExamples.ElementPrinterExamplesUiBinder'; expect subsequent failures

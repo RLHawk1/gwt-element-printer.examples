@@ -1,0 +1,54 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		.header {
+			font-weight: bold;
+			font-size: 2em;
+			text-align: center;
+			background-color: lightblue;
+			padding-top: 0.6em;
+		}
+		.center {
+			margin: auto;
+			text-align: center;
+		}
+		.ar {
+			float: right;
+		}
+		.body {
+			width: 55em;
+			margin: 1em auto;
+		}
+		.label {
+			font-weight: bold;
+			text-align: right;
+			width: 7em;
+			vertical-align: top;
+		}
+	</ui:style>
+<g:DockLayoutPanel unit='EM'>
+  <g:north size='5'>
+    <g:Label styleName="{style.header}">GWT Element Printer Example</g:Label>
+  </g:north>
+  <g:center>
+    <g:VerticalPanel styleName="{style.body}">
+    <g:DecoratorPanel>
+    <g:HTMLPanel ui:field="PrintFld" width="55em">
+    <h1>Print Element</h1>
+    <table width="100%"><tr><td class="{style.label}">Text Box:</td><td><g:TextBox value="Lorem ipsum"></g:TextBox></td></tr>
+    <tr><td class="{style.label}">Text Area:</td><td><g:TextArea width="45em" height="16em" ui:field="TextAreaFld"></g:TextArea></td></tr>
+    <tr id="ignoreRow"><td class="{style.label}">Ignore:</td><td>We'll remove this table row when printing.</td></tr>
+    </table>
+    </g:HTMLPanel>
+    </g:DecoratorPanel>
+    <g:Button ui:field="PrintBtn" styleName="{style.ar}">Print</g:Button>
+    </g:VerticalPanel>
+  </g:center>
+  <g:south size='3'>
+  	<g:HTMLPanel styleName="{style.center}">
+  	<a href="https://code.google.com/p/gwt-element-printer" target="_blank">GWT Element Printer Example</a>
+  	</g:HTMLPanel>
+  </g:south>
+</g:DockLayoutPanel>
+</ui:UiBinder> 

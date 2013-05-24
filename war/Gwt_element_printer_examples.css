@@ -1,0 +1,7 @@
+/** Add css rules here for your application. */
+
+body,html {
+	height:100%;
+	margin: 0 !important;
+	padding: 0;
+}
