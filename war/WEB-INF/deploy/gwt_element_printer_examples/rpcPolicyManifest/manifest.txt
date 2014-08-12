@@ -1,2 +1,0 @@
-# Module gwt_element_printer_examples
-# RPC service class, partial path of RPC policy file
